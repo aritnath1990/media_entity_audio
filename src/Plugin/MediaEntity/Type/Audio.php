@@ -51,7 +51,7 @@ class Audio extends MediaTypeBase {
   /**
    * {@inheritdoc}
    */
-  public function getField(MediaInterface $media , $name) {
+  public function getField(MediaInterface $media, $name) {
     return FALSE;
   }
 
